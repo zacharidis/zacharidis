@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on ... C# and many .NET technologies
-- 🌱 I’m currently learning ... Blazor
-- 👯 I’m looking to collaborate on ... .NET tech stack
-- 🤔 I’m looking for help with : Well may the Force of .NET and the Mighty Entity Framework be with us all !
-- 💬 Ask me about ... a job offer for me ? 
 - 📫 How to reach me: zgeorgios@icloud.com
 
 - ⚡ Fun fact: Pascal was my first programming language
