@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact: Pascal was my first programming language
 
-- Currently learning C++ 
+- Currently updating my inner CPU
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zacharidis&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="600">
