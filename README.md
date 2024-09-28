@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: zgrgs@icloud.com
+- 📫 How to reach me: gzpi@icloud.com
 
 - ⚡ Fun fact: Pascal was my first programming language
 
